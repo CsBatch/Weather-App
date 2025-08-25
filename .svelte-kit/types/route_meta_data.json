@@ -1,0 +1,9 @@
+{
+	"/": [
+		"src/routes/+page.js",
+		"src/routes/+page.server.js"
+	],
+	"/forcastDetails": [
+		"src/routes/forcastDetails/+page.server.js"
+	]
+}
